@@ -1,0 +1,47 @@
+﻿/* reset */
+
+*,
+*:after,
+*:before {
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-size: 1em;
+}
+
+body {
+    font-family: Arial, helvetica, sans-serif;
+    line-height: 1.4;
+}
+
+header {
+    background: #f0f0f0;
+    width: 100%;
+}
+
+.logo img {
+    display: block;
+}
+
+
+/* Header */
+
+
+/* .headernews {
+    background-color: rgba(245, 12, 12, 0.88);
+    padding: 1em;
+    margin: 1em 0 1em 0;
+    ma
+} */
+
+
+/* Titulo do header */
+
+
+/* #titulohead {
+    font-family: Montserrat, helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 2em;
+    text-align: center;
+} */
