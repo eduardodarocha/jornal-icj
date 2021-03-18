@@ -190,3 +190,31 @@ header {
     background: #555;
     margin-left: 1.5em;
 }
+
+.secaonews {
+    width: 600px;
+    margin: 30px auto 30px;
+    align-content: center;
+}
+
+.containernews {
+    border: 2px solid lightgreen;
+    border-radius: 6px;
+}
+
+.containernews img,
+iframe {
+    display: flex;
+    margin: 20px auto 20px auto;
+}
+
+.titulonews {
+    text-align: center;
+    font-size: 30px;
+}
+
+#newsmain {
+    text-align: justify;
+    padding: 15px;
+    font-size: 17px;
+}
