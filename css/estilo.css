@@ -206,6 +206,7 @@ header {
 iframe {
     display: flex;
     margin: 20px auto 20px auto;
+    padding: 0 20px 0 20px;
 }
 
 .titulonews {
@@ -213,8 +214,22 @@ iframe {
     font-size: 30px;
 }
 
-#newsmain {
+.newsmain {
     text-align: justify;
     padding: 15px;
     font-size: 17px;
+}
+
+#newsnmainaviso {
+    padding: 15px;
+}
+
+p.newsmain a {
+    padding: 15px;
+    margin-left: 15px;
+}
+
+.containernews>a {
+    padding: 0 15px 0 15px;
+    text-decoration: none;
 }
